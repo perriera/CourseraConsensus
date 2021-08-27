@@ -6,7 +6,7 @@ import java.util.Arrays;
 import org.junit.Before;
 import org.junit.Test;
 
-public class TestCasesWithMaxFeeTxHandler extends TestCases {
+public class TestCasesMaclicious extends TestCases {
 
 	@Before
 	public void setUpHandler() throws Exception {
